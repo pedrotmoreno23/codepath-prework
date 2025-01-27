@@ -2,7 +2,7 @@
 
 Submitted by: **Pedro Moreno**
 
-**MyS Swift App** is an app that... [TODO] 
+**MyS Swift App** is an app that changes the background every time the user clicks on a button
 
 Time spent: **1** hours spent in total
 
@@ -32,7 +32,8 @@ Reddit
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting familiar with the app was definetively the hardest. I believe learning swift will be smooth because I know other programming languages
+But learning how to tweak in the app will take a while
 
 ## License
 
